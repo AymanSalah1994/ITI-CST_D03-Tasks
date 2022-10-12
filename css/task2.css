@@ -1,0 +1,32 @@
+body {
+  background-image: url("../bgimg.jpg");
+  background-size: cover;
+}
+h2.head {
+  text-align: center;
+  color: rgb(12, 72, 12);
+}
+#foot {
+  text-align: center;
+  color: rgb(29, 68, 29);
+  font-style: italic;
+}
+#ending {
+  text-align: center;
+  color: brown;
+  font-style: italic;
+}
+span.insider {
+  display: inline;
+  color: brown;
+}
+p.subHead {
+  text-align: center;
+  color: rgb(18, 67, 18);
+}
+p.smallPar {
+  color: rgb(18, 77, 18);
+}
+table {
+  margin: auto;
+}

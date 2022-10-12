@@ -1,0 +1,39 @@
+img {
+  width: 200;
+}
+p {
+  display: inline;
+}
+#mainContainer {
+  width: 75%;
+  margin: auto;
+}
+div.inner {
+  background-color: pink;
+  border: 1px solid;
+  margin: 20px;
+  padding: 20px;
+}
+#middleText {
+  font-size: 23;
+  text-align: center;
+  font-family:"DejaVu Sans","DejaVu Sans Mac Name","DejaVu Sans Unix Name","Times New Roman" ;
+  padding-bottom: 20;
+}
+div.firstInner {
+  text-align: center;
+}
+h3 {
+  text-decoration: underline;
+}
+.pLink {
+  color: red;
+}
+p.copyRight {
+  font-size: 24;
+  display: block;
+  text-align: center;
+}
+div.last {
+  padding: 30px;
+}

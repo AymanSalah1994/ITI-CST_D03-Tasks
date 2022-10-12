@@ -1,0 +1,46 @@
+table {
+  margin: auto;
+  border: 1px solid;
+}
+tr {
+    margin: auto;
+}
+td {
+  margin: 10px;
+  padding: 10px;
+}
+#tw {
+  padding: 5px;
+  background-color: cyan;
+}
+#fb {
+  padding: 5px;
+  background-color: blue;
+}
+#or {
+  text-align: center;
+  border: 1px solid;
+  width: 50px;
+  border-radius: 25px;
+}
+div.or {
+  margin: auto;
+  padding-left: 120px;
+}
+input.credit {
+  margin: auto;
+  width: 100%;
+}
+#login {
+  width: 100%;
+  padding: 25px;
+  background-color: blue;
+  color: white ;
+  font-size: large;
+}
+p.member {
+  text-align: center;
+}
+div.member {
+  margin: auto;
+}
